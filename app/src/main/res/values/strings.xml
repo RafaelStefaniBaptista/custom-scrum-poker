@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom Scrum Poker</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Carregando</string>
+    <string name="create">Criar</string>
+    <string name="custom_scrum_deck">Custom Scrum Deck</string>
+    <string name="deck_name">Nome do Deck</string>
+    <string name="custom_scrum_card">Custom Scrum Card</string>
+    <string name="card_name">Nome do Card</string>
+</resources>
